@@ -1,0 +1,12 @@
+Sample application showing sketching & collaboration using HTML5 canvas and short-interval data poll.
+
+Read details and explanation at:
+http://www.tricedesigns.com/?p=1256
+
+This example uses the following libraries:
+http://jquery.com/
+http://twitter.github.com/bootstrap/
+http://www.modernizr.com/
+
+The server side code uses Adobe ColdFusion:
+http://www.adobe.com/products/coldfusion-family.html
